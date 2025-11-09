@@ -7,7 +7,7 @@ The model describes **three functional modes** of the immune system:
 
 ---
 
-## ⚙️ Main Parameters
+## Main Parameters
 
 | Parameter | Value | Description |
 |------------|--------|-------------|
@@ -20,7 +20,7 @@ The model describes **three functional modes** of the immune system:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/<your-username>/<repository>.git
@@ -32,7 +32,7 @@ After running, the program generates **three `.png` plots** and a **summary tabl
 
 ---
 
-## 📊 Output Data
+## Output Data
 
 The program runs three simulations with different initial antigen concentrations:
 
