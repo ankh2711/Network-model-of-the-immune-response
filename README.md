@@ -20,18 +20,6 @@ The model describes **three functional modes** of the immune system:
 
 ---
 
-## How to Run
-
-```bash
-https://github.com/ankh2711/Network-model-of-the-immune-response.git
-cd Network-model-of-the-immune-response
-python model.py
-```
-
-After running, the program generates **three `.png` plots** and a **summary table** with antibody activity peaks.
-
----
-
 ## Output Data
 
 The program runs three simulations with different initial antigen concentrations:
